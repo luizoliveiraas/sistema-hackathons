@@ -14,22 +14,7 @@ O sistema permite:
 
 Tudo é feito em memória, sem uso de banco de dados ou interface gráfica. O foco é praticar conceitos de orientação a objetos, como herança, composição, encapsulamento e o padrão Singleton para as coleções de equipes e apresentações.
 
-## Como rodar
-
-1. Entre na pasta do projeto:
-   ```
-   cd "Sistema Hackathons /hackathon"
-   ```
-2. Compile todos os arquivos Java:
-   ```
-   javac *.java
-   ```
-3. Execute o programa principal:
-   ```
-   java hackathon.HackathonManager
-   ```
-
-A saída será a lista dos projetos aprovados, de acordo com as notas das bancas.
+#
 
 ## Observações
 - O projeto foi feito individualmente.
@@ -37,4 +22,4 @@ A saída será a lista dos projetos aprovados, de acordo com as notas das bancas
 - Qualquer dúvida, sugestão ou crítica é bem-vinda!
 
 ---
-Luiz Gustavo 
+Luiz Gustavo Gustavo Silva Oliveira
